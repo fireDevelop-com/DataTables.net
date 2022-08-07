@@ -7,6 +7,8 @@
 
 
 > ### show_image_on_cell.html
-> show images on cell.
+> show images on cell. (fake images used)
 >
 >![alt text](https://github.com/fireDevelop-com/DataTables.net/blob/main/assets/images/wiki/2022-08-08_0013-06155.png?raw=true)
+
+>![alt text](https://github.com/fireDevelop-com/DataTables.net/blob/main/assets/images/wiki/2022-08-08_0019-59597?raw=true)
